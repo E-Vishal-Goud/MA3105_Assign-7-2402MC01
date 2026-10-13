@@ -1,7 +1,7 @@
 # Assignment 7: Advanced OS Concepts in xv6
 
-**Name:** Parepally Aravind  
-**Roll Number:** 2401MC36  
+**Name:** E Vishal Goud
+**Roll Number:** 2402MC01 
 **Course:** Operating Systems (MA3105)
 
 ## Overview
